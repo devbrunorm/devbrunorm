@@ -4,11 +4,12 @@
 <br>👷🏻 Graudado em Engenharia Civil pela Universidade Estadual de Maringá(UEM)
 <br>👷🏻 Pós Graduado em Engenharia Diagnóstica pela Faculdade Iporã(FIP)
 <br>👨🏻‍💻 Graduando de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Paranaense(UNIPAR)
-<br>👨🏻‍💻 Estagiário na Deal Technologies</li>
+<br>👨🏻‍💻 Estagiário em Dados na Deal Technologies</li>
 
 <h2>Interesses</h2>
 <br>🤖 Machine Learning
 <br>🧠 Redes Neurais
+<br>⚙️ Engenharia de Dados
 <br>🖥 Desenvolvimento Backend
 <br>📱 Desenvolvimento Mobile
 
@@ -26,6 +27,7 @@
   <div style="display: inline_block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:80px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:80px" />
+
   </div>
 </div>
 
