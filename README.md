@@ -4,7 +4,7 @@
 <br>👷🏻 Graudado em Engenharia Civil pela Universidade Estadual de Maringá(UEM)
 <br>👷🏻 Pós Graduado em Engenharia Diagnóstica pela Faculdade Iporã(FIP)
 <br>👨🏻‍💻 Graduando de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Paranaense(UNIPAR)
-<br>👨🏻‍💻 Estagiário em Dados na Deal Technologies</li>
+<br>👨🏻‍💻 Desenvolvedor Jr. em Dados na Deal Technologies</li>
 
 <h2>Interesses</h2>
 <br>🤖 Machine Learning
