@@ -3,15 +3,14 @@
 <h2>Profissional e Acadêmico</h2>
 <br>👷🏻 Graudado em Engenharia Civil pela Universidade Estadual de Maringá(UEM)
 <br>👷🏻 Pós Graduado em Engenharia Diagnóstica pela Faculdade Iporã(FIP)
-<br>👨🏻‍💻 Graduando de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Paranaense(UNIPAR)
-<br>👨🏻‍💻 Desenvolvedor Jr. em Dados na Deal Technologies</li>
+<br>👨🏻‍💻 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Paranaense(UNIPAR)
+<br>👨🏻‍💻 Engenheiro de Dados na Raízen Energia</li>
 
 <h2>Interesses</h2>
 <br>🤖 Machine Learning
 <br>🧠 Redes Neurais
 <br>⚙️ Engenharia de Dados
 <br>🖥 Desenvolvimento Backend
-<br>📱 Desenvolvimento Mobile
 
 <div>
   <h2>Linguagens e Frameworks</h2>
